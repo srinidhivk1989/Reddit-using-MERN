@@ -1,4 +1,5 @@
-# project-8
+
+Reddit(MERN):
 
 
 DESCRIPTION:(Basic functionalities)
